@@ -1,0 +1,34 @@
+### Get all users
+GET http://localhost:5211/users
+
+### Get user by ID
+GET http://localhost:5211/users/1
+
+### Create a new user
+POST http://localhost:5211/users
+Content-Type: application/json
+
+{
+  "name": "Jane Doe",
+  "email": "jane.doe@example.com"
+}
+
+### Update an existing user
+PUT http://localhost:5211/users/1
+Content-Type: application/json
+
+{
+  "name": "Jane Smith",
+  "email": "jane.smith@example.com"
+}
+
+### Delete a user
+DELETE http://localhost:5211/users/1
+
+
+
+# Scaffolded CRUD Endpoints: Copilot generated boilerplate code for GET, POST, PUT, and DELETE endpoints, ensuring RESTful API design.
+# Model Creation: Suggested a simple User model for consistent data handling.
+# Error Handling: Included checks for missing users, returning appropriate HTTP status codes (404 Not Found, 201 Created, 204 No Content).
+# Code Consistency: Ensured endpoint naming and routing followed ASP.NET Core conventions.
+# Rapid Prototyping: Enabled quick setup and iteration, reducing manual coding effort and minimizing errors.
