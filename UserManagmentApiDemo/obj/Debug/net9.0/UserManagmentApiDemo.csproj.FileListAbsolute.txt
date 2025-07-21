@@ -33,3 +33,4 @@ C:\Users\ahmad\source\repos\UserManagmentApiDemo\UserManagmentApiDemo\obj\Debug\
 C:\Users\ahmad\source\repos\UserManagmentApiDemo\UserManagmentApiDemo\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ahmad\source\repos\UserManagmentApiDemo\UserManagmentApiDemo\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ahmad\source\repos\UserManagmentApiDemo\UserManagmentApiDemo\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ahmad\source\repos\UserManagmentApiDemo\UserManagmentApiDemo\obj\Debug\net9.0\UserManagmentApiDemo.sourcelink.json
